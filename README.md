@@ -5,7 +5,7 @@ If user chooses to create a new account then a new account number is generated b
 
 If user chooses to log into the account then must provide an account number and the PIN. The information are veryfied with the data base. If the card or PIN is wrong then user will not be able to log in. 
 
-After logging into account user has six options:
+## After logging into account user has six options:
 1. Balance
 2. Add income
 3. Do transfer
